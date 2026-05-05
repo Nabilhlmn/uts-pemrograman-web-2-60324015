@@ -1,7 +1,7 @@
 -- Buat database jika belum ada
-CREATE DATABASE IF NOT EXISTS uts_perpustakaan_1234567890; -- Ganti dengan NIM Anda
+CREATE DATABASE IF NOT EXISTS uts_perpustakaan_60324015;
 
-USE uts_perpustakaan_1234567890;
+USE uts_perpustakaan_60324015;
 
 -- Buat tabel kategori
 CREATE TABLE IF NOT EXISTS kategori (
